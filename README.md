@@ -1,7 +1,6 @@
 The dataset covers a subset of World Development Indicators, focusing on two key metrics across countries and regions over a two-decade span:
 
-Life Expectancy
-Health Expenditure
+Life Expectancy and Health Expenditure
 
 The goal is to dig into the data, find the stories worth telling, and communicate them clearly through well-crafted visualizations.
 All done in Microsoft Excel.
